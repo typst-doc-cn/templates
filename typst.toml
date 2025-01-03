@@ -1,0 +1,14 @@
+[package]
+name = "meta-template-cn"
+version = "0.1.2"
+entrypoint = "lib.typ"
+authors = [
+    "Typst CN <https://github.com/typst-doc-cn>",
+    "Myriad-Dreamin <https://github.com/Myriad-Dreamin>",
+]
+license = "Apache-2.0"
+homepage = "https://myriad-dreamin.github.io/shiroa"
+repository = "https://github.com/typst-doc-cn/templates"
+keywords = ["book"]
+categories = ["book"]
+description = "Meta-Template-CN provides functions to create templates and some builtin templates over the functions."
